@@ -1,25 +1,8 @@
 
-body {
-  background: #fff;
+@import url('https://fonts.googleapis.com/css?family=Abel%7COswald:700%7CYellowtail%7CPatrick+Hand');
+* {
+ font-family: times;
 }
-
-main p {
-    color: #333;
-    font-size: 1.2em;
-    line-height: 1.3em;
-    text-indent: 30px;
-    margin: 20px 0px;
-  }
-  * {
-    font-family: times;
-  
-  }
-  #logo h1 {
-    padding-left: 50px;
-    font-family: 'Yellowtail', cursive;
-    font-size: 2.4em;
-  }
-  input {
-    font-family: 'Patrick Hand', cursive;
-  }
-  
+body {
+ background: #fff;
+}
