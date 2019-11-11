@@ -1,0 +1,15 @@
+#logo img {
+    float: left;
+  }
+  hr {
+    clear: both;
+    border: 0;
+    height: 13px;
+    background-image: url('../img/hr.png');
+  }
+  .print img {
+    margin-right: 3px;
+  }
+  aside img {
+    float: left;
+  }
