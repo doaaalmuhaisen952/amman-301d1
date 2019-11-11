@@ -1,24 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Abel|Oswald:700|Yellowtail|Patrick+Hand');
 
-
-
-
-
-
-
-
-#slogan {
-  width: 250px;
-  padding-left: 55px;
-  color: #a3a4a2;
-  font-family: 'Abel', sans-serif;
-  font-size: .65em;
-  text-transform: uppercase;
-}
-
-
-
-
 h2 {
   margin-top: 50px;
   font-family: 'Oswald', sans-serif;
@@ -105,11 +86,5 @@ section hr {
 }
 
 
-footer section p{
-  padding: 50px 0;
-  line-height: 1.5em;
-  text-align: center;
-  color: #aaa;
-}
 
 
